@@ -1,0 +1,12 @@
+!!com.dynatrace.ufowrapper.yaml.YamlContent
+scenarios:
+  - name: "it-rotate-fast"
+    colors:
+      - "Green"
+      - "White"
+      - "Red"
+    whirl: Fast
+    whirlDirection: ClockWise
+    columnWidth: 4
+    morph: Fast
+    background: DtDarkGray
