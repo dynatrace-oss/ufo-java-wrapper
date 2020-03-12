@@ -21,6 +21,11 @@ The scenarios can become quite complicated, for instance if you want to display 
 or if you might want to show random colors on both lanes
 
     http://<myIp>/api?top=0|1|78adc6&top=1|1|14ca50&top=2|1|e300ca&top=3|1|047a22&top=4|1|c8d70e&top=5|1|3308b8&top=6|1|806c75&top=7|1|991922&top=8|1|c1e378&top=9|1|363a15&top=10|1|a9f5dd&top=11|1|a71e88&top=12|1|227c65&top=13|1|86cd1a&top=14|1|84025c&top_whirl=200&bottom=0|1|04aeda&bottom=1|1|7947b9&bottom=2|1|60d7fb&bottom=3|1|e67827&bottom=4|1|8562ba&bottom=5|1|3ebcff&bottom=6|1|ba0cd8&bottom=7|1|50f1ca&bottom=8|1|526be0&bottom=9|1|6ff038&bottom=10|1|ca136f&bottom=11|1|3a6541&bottom=12|1|cab4cd&bottom=13|1|b8c1b8&bottom=14|1|5aef3f&bottom_whirl=200|ccw
+
+### Dynatrace UFO - How it works
+If you are interested in deeper knowledge how the Dynatrace UFO is operating, or if you want to get deeper knowledge in the commands available on the UFO's rest api - don't miss to visit the UFO repository!
+
+https://github.com/Dynatrace/ufo-esp32
     
 ### Commands
 You can simply control your ufo with UfoCommandBuilder
